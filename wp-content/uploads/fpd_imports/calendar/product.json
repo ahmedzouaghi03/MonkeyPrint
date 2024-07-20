@@ -1,0 +1,582 @@
+{
+    "title": "Calendar",
+    "thumbnail": null,
+    "options": {
+        "stageWidth": "1200",
+        "stageHeight": "1000"
+    },
+    "views": [
+        {
+            "title": "January",
+            "thumbnail": "jan.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "textAlign": "left"
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "jan.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "February",
+            "thumbnail": "feb.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "textAlign": "left"
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "feb.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "March",
+            "thumbnail": "mar.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "mar.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "April",
+            "thumbnail": "apr.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "apr.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "fontWeight": "bold",
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "May",
+            "thumbnail": "may.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "may.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "fontWeight": "bold",
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "June",
+            "thumbnail": "jun.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "jun.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "fontWeight": "bold",
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "July",
+            "thumbnail": "jul.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "jul.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "fontWeight": "bold",
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "August",
+            "thumbnail": "aug.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "aug.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "fontWeight": "bold",
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "September",
+            "thumbnail": "sept.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "textAlign": "left"
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "sept1.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "806",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "fontWeight": "bold",
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "October",
+            "thumbnail": "octo.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "octo.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "fontWeight": "bold",
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "November",
+            "thumbnail": "nov.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "textAlign": "left"
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "nov1.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        },
+        {
+            "title": "December",
+            "thumbnail": "dec.jpg",
+            "elements": [
+                {
+                    "type": "image",
+                    "title": "Base",
+                    "source": "bg1.jpg",
+                    "parameters": {
+                        "x": "600",
+                        "y": "500",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                },
+                {
+                    "type": "image",
+                    "title": "month",
+                    "source": "dec.png",
+                    "parameters": {
+                        "x": "600",
+                        "y": "804",
+                        "scale": "1.00",
+                        "angle": "0",
+                        "price": null,
+                        "colors": null,
+                        "topped": "1",
+                        "bounding_box_x": null,
+                        "bounding_box_y": null,
+                        "bounding_box_width": null,
+                        "bounding_box_height": null,
+                        "bounding_box_by_other": null,
+                        "replace": null,
+                        "fontWeight": "bold",
+                        "textAlign": "left",
+                        "maxLength": null
+                    }
+                }
+            ],
+            "options": []
+        }
+    ]
+}

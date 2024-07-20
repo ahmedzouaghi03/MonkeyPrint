@@ -2,8 +2,8 @@
 // ** MySQL settings ** //
 define( 'DB_NAME', 'wordpress' ); // The name of the database
 define( 'DB_USER', 'root2' ); // Your MySQL username
-define( 'DB_PASSWORD', 'root' ); // Your MySQL password
-define( 'DB_HOST', 'localhost:3307' ); // 99% chance you won't need to change this value
+define( 'DB_PASSWORD', 'BEngn$#09DDbWWM5&G' ); // Your MySQL password
+define( 'DB_HOST', 'localhost' ); // 99% chance you won't need to change this value
 
 // ** Database charset and collation ** //
 define( 'DB_CHARSET', 'utf8' );
