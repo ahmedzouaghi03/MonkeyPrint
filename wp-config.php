@@ -1,4 +1,6 @@
 <?php
+define( 'WP_CACHE', false ); // By Speed Optimizer by SiteGround
+
 // ** MySQL settings ** //
 define( 'DB_NAME', 'wordpress' ); // The name of the database
 define( 'DB_USER', 'root2' ); // Your MySQL username

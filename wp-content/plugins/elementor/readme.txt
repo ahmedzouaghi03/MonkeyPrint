@@ -4,7 +4,7 @@ Tags: page builder, editor, landing page, drag-and-drop, elementor,
 Requires at least: 6.0
 Tested up to: 6.5
 Requires PHP: 7.4
-Stable tag: 3.23.1
+Stable tag: 3.23.2
 Beta tag: 3.23.0-beta6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -327,6 +327,12 @@ You can also add a new language via [translate.wordpress.org](https://go.element
 6. **Motion Effects** - Add entrance animations and transitions to any element in your website to captivate visitors.
 
 == Changelog ==
+
+= 3.23.2 - 2024-07-23 =
+* Security Fix: Improved code security enforcement in link URL
+* Fix: Facebook Messenger username is not working on mobile devices in Floating Buttons ([#28103](https://github.com/elementor/elementor/issues/28103))
+* Fix: RTL issues with Floating Buttons templates
+* Fix: WordPress 6.6 does not support certain features
 
 = 3.23.1 - 2024-07-15 =
 * Fix: Slow loading of WordPress admin and Elementor screens due to AI health check
